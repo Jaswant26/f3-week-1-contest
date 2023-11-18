@@ -70,7 +70,7 @@ h1 {
   margin: 10px;
   padding: 10px;
   border-radius: 5px;
-  background-color: #39393e;
+  background-color: #f0f757;
 }
 
 .timer {
@@ -80,7 +80,7 @@ h1 {
 }
 
 .timer-ended {
-  color: red;
+  color: black;
 }
 
 .time-left {
@@ -110,15 +110,17 @@ h1 {
 }
 
 .stop-button:hover {
-  background-color: rgb(205, 1, 1);
+  background-color: #079309;
 }
 
 .delete-button {
-  background-color: red;
+  background-color: #34344A;
+  color: white;
+
 }
 
 .delete-button:hover {
-  background-color: rgb(205, 1, 1);
+  background-color: #079309;
 }
 
 #heading {
